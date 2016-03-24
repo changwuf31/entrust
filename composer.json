@@ -35,8 +35,8 @@
         "classmap": [
             "src/commands"
         ],
-        "psr-4": {
-            "Zizaco\\Entrust\\": "src/Entrust/"
+        "psr-0": {
+            "Zizaco\\Entrust": "src/"
         }
     },
     "autoload-dev": {
